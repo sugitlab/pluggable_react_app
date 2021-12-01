@@ -1,6 +1,6 @@
 {
-  "name": "viteapp",
-  "version": "0.0.0",
+  "name": "base",
+  "version": "0.0.1",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
@@ -18,3 +18,4 @@
     "vite": "^2.6.4"
   }
 }
+

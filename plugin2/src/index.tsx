@@ -6,7 +6,7 @@ export const Plugin = ({
   label,
 }: {
   value: number;
-  cb: () => {};
+  cb: () => void;
   label: string;
 }) => {
   return <div>Replaced Plugin</div>;

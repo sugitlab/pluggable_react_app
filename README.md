@@ -1,19 +1,3 @@
-# vite-first-app
+# Pluggable React App
 
-trial repository for react app using Vite. (https://vitejs.dev)
-
-## Usage
-
-- Create Vite template
-
-```
-yarn create vite myapp --template react-ts
-```
-
-- Run
-
-```
-cd myapp
-yarn install
-yarn dev
-```
+Sample repository for pluggable react app using Vite. (https://vitejs.dev)
